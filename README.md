@@ -1,12 +1,13 @@
 # Introduction
 
-This is a empty Python project example for github to serve as an boilerplate.
-It aims to free the effort from the engineering work and make users focus on features.
+This is an empty Python project example for github to serve as a boilerplate.
+It aims to free users from repetitive engineering work and make users focus on features.
 
 Following features are considered
+- Python Package boilerplate.
 - Github Actions CI
 - pre-commit checking.
-- Python Package boilerplate.
+- Git Ignore
 
 
 
