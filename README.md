@@ -5,9 +5,12 @@ It aims to free users from repetitive engineering work and make users focus on f
 
 Following features are considered
 - Python Package boilerplate.
+  - [setup.py](setup.py) 
 - Github Actions CI
+  - [linting](.github/workflows/linting.yml)
 - pre-commit checking.
-- Git Ignore
+  - [black,flake8,pyright](.pre-commit-config.yaml) 
+- [Git Ignore](.gitignore)
 
 
 
